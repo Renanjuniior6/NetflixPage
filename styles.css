@@ -8,6 +8,7 @@
 
 #container {
     background: url("./imagens/background\ fc.jpeg");
+    background-size: cover;
     padding-bottom: 140px;
 }
 
